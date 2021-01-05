@@ -59,7 +59,7 @@ a#scrollUp {
     bottom: 0px;
     right: 10px;
     padding: 5px 10px;
-    background: darkmagenta;
+    background: #9a217a;
     color: #FFF;
     -webkit-animation: bounce 2s ease infinite;
     animation: bounce 2s ease infinite;
@@ -194,7 +194,7 @@ a#scrollUp i {
 
 .usa {
     border-radius: 0;
-    color: #B4B1AB;
+    color: dimgray;
     font-size: 12px;
     margin-right: 20px;
     padding: 2px 15px;
@@ -623,7 +623,29 @@ ul.sub-menu {
     margin-top: 115px;
 }
 
-.item h1 span {
+.item h1 span,
+.logo a span {
+    color: darkmagenta;
+    font-family: abel;
+}
+
+div.logo {
+    position: relative;
+    top: 10px;
+    margin-bottom: 10px;
+}
+
+.logo a {
+    color: dimgray;
+    font-family: abel;
+    }
+
+.logo a span, .logo a {
+    font-size: 20px;
+}
+
+.logo a span, .logo a:hover {
+    text-decoration: none;
     color: darkmagenta;
 }
 
@@ -2443,5 +2465,30 @@ h2.title {
 /*}*/
 
 ul.nav-tabs li a:not(:first-child) {
+    color: whitesmoke;
+}
+
+.dark {
+    color: dimgray;
+    text-decoration: none;
+}
+
+a.dark:hover {
+    text-decoration: none;
+    color: dimgray;
+}
+
+.recommended-item-control {
+    font-weight: bold;
+    color: whitesmoke;
+    width: 30px;
+    height: 30px;
+    background: darkmagenta;
+    text-align: center;
+    padding: 5px;
+}
+
+a.recommended-item-control:hover {
+    text-decoration: none;
     color: whitesmoke;
 }
