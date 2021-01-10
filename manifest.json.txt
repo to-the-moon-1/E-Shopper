@@ -1,0 +1,129 @@
+{
+    "dir": "ltr",
+    "lang": "English",
+    "name": "Home | E-Shopper",
+    "short_name": "Home | E-Shoppe",
+    "scope": "/",
+    "display": "standalone",
+    "start_url": "https://spiritistic-feather.000webhostapp.com/",
+    "background_color": "#ffffff",
+    "theme_color": "#ffffff",
+    "shortcuts": [
+        {
+            "name": "Home | E-Shopper",
+            "short_name": "Home | E-Shopper",
+            "description": "shop, clothes, men, women e-commerce",
+            "url": "https://spiritistic-feather.000webhostapp.com/",
+            "icons": [{ "src": "ico/192.png", "sizes": "192x192" }]
+        }
+    ],
+    "description": "shop, clothes, men, women e-commerce",
+    "categories": "magazines, shopping, social",
+    "orientation": "any",
+    "related_applications": [],
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "ico/44.png",
+            "sizes": "44x44",
+            "type": "image/png"
+        },
+        {
+            "src": "ico/48.png",
+            "sizes": "48x48",
+            "type": "image/png"
+        },
+        {
+            "src": "ico/1240.png",
+            "sizes": "1240x600",
+            "type": "image/png"
+        },
+        {
+            "src": "ico/300.png",
+            "sizes": "300x300",
+            "type": "image/png"
+        },
+        {
+            "src": "ico/150.png",
+            "sizes": "150x150",
+            "type": "image/png"
+        },
+        {
+            "src": "ico/88.png",
+            "sizes": "88x88",
+            "type": "image/png"
+        },
+        {
+            "src": "ico/24.png",
+            "sizes": "24x24",
+            "type": "image/png"
+        },
+        {
+            "src": "ico/50.png",
+            "sizes": "50x50",
+            "type": "image/png"
+        },
+        {
+            "src": "ico/620.png",
+            "sizes": "620x300",
+            "type": "image/png"
+        },
+        {
+            "src": "ico/192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "ico/144.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        },
+        {
+            "src": "ico/96.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        },
+        {
+            "src": "ico/72.png",
+            "sizes": "72x72",
+            "type": "image/png"
+        },
+        {
+            "src": "ico/36.png",
+            "sizes": "36x36",
+            "type": "image/png"
+        },
+        {
+            "src": "ico/1024.png",
+            "sizes": "1024x1024",
+            "type": "image/png"
+        },
+        {
+            "src": "ico/180.png",
+            "sizes": "180x180",
+            "type": "image/png"
+        },
+        {
+            "src": "ico/152.png",
+            "sizes": "152x152",
+            "type": "image/png"
+        },
+        {
+            "src": "ico/120.png",
+            "sizes": "120x120",
+            "type": "image/png"
+        },
+        {
+            "src": "ico/76.png",
+            "sizes": "76x76",
+            "type": "image/png"
+        },
+        {
+            "src": "ico/32.png",
+            "sizes": "32x32",
+            "type": "image/png"
+        }
+    ],
+    "url": "https://spiritistic-feather.000webhostapp.com/",
+    "screenshots": []
+}
