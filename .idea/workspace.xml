@@ -12,7 +12,6 @@
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/login.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/product-details.html" beforeDir="false" afterPath="$PROJECT_DIR$/product-details.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/robots.txt" beforeDir="false" afterPath="$PROJECT_DIR$/robots.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/shop.html" beforeDir="false" afterPath="$PROJECT_DIR$/shop.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,7 +62,8 @@
       <workItem from="1609877691193" duration="9677000" />
       <workItem from="1610223902183" duration="2573000" />
       <workItem from="1610306713786" duration="11942000" />
-      <workItem from="1610402591667" duration="4249000" />
+      <workItem from="1610402591667" duration="5324000" />
+      <workItem from="1610456979421" duration="1676000" />
     </task>
     <servers />
   </component>
