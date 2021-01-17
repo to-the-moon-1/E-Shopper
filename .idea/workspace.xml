@@ -1,23 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="055e24e3-f975-4d5b-ab12-6a457fd551ec" name="Default Changelist" comment="" />
+    <list default="true" id="13a13628-9890-4a64-8832-1c700fefb71d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/app/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/css/eshopper.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/css/eshopper.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/js/eshopper.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/js/eshopper.min.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="JavaScript File" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/app" />
   </component>
-  <component name="ProjectId" id="1mWHz1JOoQgO0mRo6YXuzU9bwE7" />
+  <component name="ProjectId" id="1nDWhyanTzgDaxCBuYKN7b53lpM" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
@@ -28,55 +26,22 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="055e24e3-f975-4d5b-ab12-6a457fd551ec" name="Default Changelist" comment="" />
-      <created>1609602686139</created>
+      <changelist id="13a13628-9890-4a64-8832-1c700fefb71d" name="Default Changelist" comment="" />
+      <created>1610925287429</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1609602686139</updated>
-      <workItem from="1609602687280" duration="2852000" />
-      <workItem from="1609710390646" duration="644000" />
-      <workItem from="1609711208484" duration="2411000" />
-      <workItem from="1609800487165" duration="3564000" />
-      <workItem from="1609845630116" duration="5358000" />
-      <workItem from="1609856284571" duration="14414000" />
-      <workItem from="1609877123805" duration="207000" />
-      <workItem from="1609877691193" duration="9677000" />
-      <workItem from="1610223902183" duration="2573000" />
-      <workItem from="1610306713786" duration="11942000" />
-      <workItem from="1610402591667" duration="5324000" />
-      <workItem from="1610456979421" duration="1921000" />
-      <workItem from="1610483074862" duration="11183000" />
-      <workItem from="1610580840033" duration="2606000" />
-      <workItem from="1610626643345" duration="6259000" />
-      <workItem from="1610749836371" duration="6592000" />
-      <workItem from="1610806273981" duration="2746000" />
-      <workItem from="1610885154064" duration="3407000" />
+      <updated>1610925287429</updated>
+      <workItem from="1610925293509" duration="178000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="UnknownFeatures">
-    <option featureType="com.intellij.fileTypeFactory" implementationName="*.php" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
