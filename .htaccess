@@ -5,8 +5,8 @@ RewriteCond %{HTTPS_HOST} ^https://spiritistic-feather.000webhostapp.com/
 RewriteRule (.*) https://spiritistic-feather.000webhostapp.com/$1 [R=301,L]
 RewriteCond %{THE_REQUEST} ^[A-Z]{3,9}\ /index\.html\ HTTPS/
 RewriteRule ^index\.html$ https://spiritistic-feather.000webhostapp.com/ [R=301,L]
-RewriteCond %{ENV:HTTPS} !on
-    RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+# RewriteCond %{ENV:HTTPS} !on
+# RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
 </IfModule>
 
 ServerSignature Off
