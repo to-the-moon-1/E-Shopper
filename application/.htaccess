@@ -1,0 +1,25 @@
+<IfModule mod_rewrite.c>
+RewriteEngine on
+RewriteBase /
+RewriteCond %{HTTPS_HOST} ^https://spiritistic-feather.000webhostapp.com/
+RewriteRule (.*) https://spiritistic-feather.000webhostapp.com/$1 [R=301,L]
+RewriteCond %{THE_REQUEST} ^[A-Z]{3,9}\ /index\.html\ HTTPS/
+RewriteRule ^index\.html$ https://spiritistic-feather.000webhostapp.com/ [R=301,L]
+# RewriteCond %{ENV:HTTPS} !on
+# RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+</IfModule>
+
+ServerSignature Off
+AddDefaultCharset UTF-8
+
+RewriteRule ^blog-single?$ blog-single.html [NC,L]
+RewriteRule ^blog?$ blog.html [NC,L]
+RewriteRule ^cart?$ cart.html [NC,L]
+RewriteRule ^checkout?$ checkout.html [NC,L]
+RewriteRule ^contact-us?$ contact-us.html [NC,L]
+RewriteRule ^login?$ login.html [NC,L]
+RewriteRule ^product-details?$ product-details.html [NC,L]
+RewriteRule ^shop?$ shop.html [NC,L]
+
+# Not found
+ErrorDocument 404 /404.html
