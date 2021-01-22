@@ -1,3 +1,0 @@
-User-agent: *
-Disallow:
-Sitemap: https://spiritistic-feather.000webhostapp.com/sitemap.xml

@@ -363,7 +363,16 @@
       <change beforePath="$PROJECT_DIR$/../app/service-worker.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../app/shop.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../app/sitemap.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../application/blog-single.html" beforeDir="false" afterPath="$PROJECT_DIR$/../application/blog-single.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../application/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/../application/blog.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../application/cart.html" beforeDir="false" afterPath="$PROJECT_DIR$/../application/cart.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../application/checkout.html" beforeDir="false" afterPath="$PROJECT_DIR$/../application/checkout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../application/contact-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/../application/contact-us.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../application/css/eshopper.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/../application/css/eshopper.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../application/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../application/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../application/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/../application/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../application/product-details.html" beforeDir="false" afterPath="$PROJECT_DIR$/../application/product-details.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../application/shop.html" beforeDir="false" afterPath="$PROJECT_DIR$/../application/shop.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../gulpfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/../gulpfile.js" afterDir="false" />
     </list>
@@ -415,6 +424,7 @@
       <workItem from="1611077538543" duration="5314000" />
       <workItem from="1611146960798" duration="1334000" />
       <workItem from="1611150453681" duration="1253000" />
+      <workItem from="1611323109951" duration="343000" />
     </task>
     <servers />
   </component>
