@@ -35,14 +35,14 @@ function browsersync() {
 }
 
 function scripts() {
-    return src('application/js/**/*.js') // Берём файлы из источников
+    return src(['application/js/**/*.js', '!application/js/**/particles.js']) // Берём файлы из источников
         .pipe(uglify()) // Сжимаем JavaScript
         .pipe(dest('dist/js/')) // Выгружаем готовый файл в папку назначения
         .pipe(browserSync.stream()) // Триггерим Browsersync для обновления страницы
 }
 
 function styles() {
-    return src('application/css/**/*.css') // Берём все файлы со стилями из папки источника
+    return src(['application/css/**/*.css', '!application/css/**/particles.css']) // Берём все файлы со стилями из папки источника
         .pipe(autoprefixer({ overrideBrowserslist: ['last 10 versions'], grid: true })) // Создадим префиксы с помощью Autoprefixer
         .pipe(cleancss( { level: { 1: { specialComments: 0 } }/* , format: 'beautify' */ } )) // Минифицируем стили
         .pipe(dest('dist/css/')) // Выгрузим результат в папку "application/css/"
@@ -63,7 +63,9 @@ function cleanimg() {
 function buildcopy() {
     return src([ // Выбираем нужные файлы
         'application/css/**/*.min.css',
+        'application/css/**/particles.css',
         'application/js/**/*.min.js',
+        'application/js/**/particles.js',
         'application/images/dest/**/*',
         'application/**/*.html',
         'application/fonts/**/*',
