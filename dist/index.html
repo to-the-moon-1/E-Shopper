@@ -27,6 +27,7 @@
 	<meta name="twitter:description" content="Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.">
 	<meta name="twitter:image" content="images/logo.png">
     <title>Home | E-Shopper</title>
+	<link href="css/particles.css" rel="stylesheet">
 	<link href="css/bootstrap.min.css" rel="stylesheet">
 	<link href="css/font-awesome.min.css" rel="stylesheet">
 	<link href="css/prettyPhoto.css" rel="stylesheet">
@@ -47,6 +48,7 @@
 </head><!--/head-->
 
 <body>
+<div id="particles-js"></div> <!-- stats - count particles --> <div class="count-particles"> <span class="js-count-particles">--</span> particles </div>
 	<header id="header"><!--header-->
 		<div class="header_top"><!--header_top-->
 			<div class="container">
@@ -170,7 +172,7 @@
 			</div>
 		</div><!--/header-bottom-->
 	</header><!--/header-->
-	
+
 	<section id="slider"><!--slider-->
 		<div class="container">
 			<div class="row">
@@ -886,7 +888,7 @@
 			</div>
 		</div>
 	</section>
-	
+
 	<footer id="footer"><!--Footer-->
 		<div class="footer-top">
 			<div class="container">
@@ -1044,7 +1046,6 @@
 				</div>
 			</div>
 		</div>
-		
 	</footer><!--/Footer-->
 
 <!-- <div style="text-align: right;position: fixed;z-index:9999999;bottom: 0;width: auto;right: 1%;cursor: pointer;line-height: 0;display:block !important;"><a title="Hosted on free web hosting 000webhost.com. Host your own website for FREE." target="_blank" href="https://www.000webhost.com/?utm_source=000webhostapp&amp;utm_campaign=000_logo&amp;utm_medium=website&amp;utm_content=footer_img"><img src="https://cdn.000webhost.com/000webhost/logo/footer-powered-by-000webhost-white2.png" alt="www.000webhost.com"></a></div>-->
@@ -1076,7 +1077,8 @@
 			new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');
 		};
 	</script>
-
 	<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+	<script src="http://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script> <!-- stats.js lib --> <script src="http://threejs.org/examples/js/libs/stats.min.js"></script>
+	<script src="js/particles.js"></script>
 </body>
 </html>
